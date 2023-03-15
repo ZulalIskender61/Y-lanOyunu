@@ -1,0 +1,57 @@
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.exe.config
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.exe
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.pdb
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csprojAssemblyReference.cache
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Form1.resources
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Properties.Resources.resources
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csproj.GenerateResource.cache
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csproj.CoreCompileInputs.cache
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.exe
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.pdb
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ.1\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.exe.config
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ.1\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.exe
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ.1\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.pdb
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ.1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csprojAssemblyReference.cache
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ.1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Form1.resources
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ.1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Properties.Resources.resources
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ.1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csproj.GenerateResource.cache
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ.1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csproj.CoreCompileInputs.cache
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ.1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.exe
+C:\Users\90537\Desktop\C# DÖNEM PROJESİ.1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.pdb
+C:\Users\90537\Desktop\C#_dönem_projesi_1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csprojAssemblyReference.cache
+C:\Users\90537\Desktop\C#_dönem_projesi_1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Form1.resources
+C:\Users\90537\Desktop\C#_dönem_projesi_1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Properties.Resources.resources
+C:\Users\90537\Desktop\C#_dönem_projesi_1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csproj.GenerateResource.cache
+C:\Users\90537\Desktop\C#_dönem_projesi_1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csproj.CoreCompileInputs.cache
+C:\Users\90537\Desktop\C#_dönem_projesi_1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.exe
+C:\Users\90537\Desktop\C#_dönem_projesi_1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.pdb
+C:\Users\90537\Desktop\C#_dönem_projesi_1\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.exe.config
+C:\Users\90537\Desktop\C#_dönem_projesi_1\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.exe
+C:\Users\90537\Desktop\C#_dönem_projesi_1\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.pdb
+C:\Users\90537\Desktop\C#_dönem_projesi_1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Skorlar.resources
+C:\Users\90537\Desktop\C#_dönem_projesi_1\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Form2.resources
+C:\Users\90537\Desktop\Zülalİskender[963316]\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.exe.config
+C:\Users\90537\Desktop\Zülalİskender[963316]\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.exe
+C:\Users\90537\Desktop\Zülalİskender[963316]\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.pdb
+C:\Users\90537\Desktop\Zülalİskender[963316]\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csproj.AssemblyReference.cache
+C:\Users\90537\Desktop\Zülalİskender[963316]\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Form1.resources
+C:\Users\90537\Desktop\Zülalİskender[963316]\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Form2.resources
+C:\Users\90537\Desktop\Zülalİskender[963316]\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Properties.Resources.resources
+C:\Users\90537\Desktop\Zülalİskender[963316]\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Skorlar.resources
+C:\Users\90537\Desktop\Zülalİskender[963316]\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csproj.GenerateResource.cache
+C:\Users\90537\Desktop\Zülalİskender[963316]\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csproj.CoreCompileInputs.cache
+C:\Users\90537\Desktop\Zülalİskender[963316]\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.exe
+C:\Users\90537\Desktop\Zülalİskender[963316]\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.pdb
+C:\Users\90537\Desktop\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.exe.config
+C:\Users\90537\Desktop\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.exe
+C:\Users\90537\Desktop\DÖNEM PROJESİ\DÖNEM PROJESİ\bin\Debug\DÖNEM PROJESİ.pdb
+C:\Users\90537\Desktop\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csproj.AssemblyReference.cache
+C:\Users\90537\Desktop\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csproj.SuggestedBindingRedirects.cache
+C:\Users\90537\Desktop\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Form1.resources
+C:\Users\90537\Desktop\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Form2.resources
+C:\Users\90537\Desktop\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Properties.Resources.resources
+C:\Users\90537\Desktop\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM_PROJESİ.Skorlar.resources
+C:\Users\90537\Desktop\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csproj.GenerateResource.cache
+C:\Users\90537\Desktop\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.csproj.CoreCompileInputs.cache
+C:\Users\90537\Desktop\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.exe
+C:\Users\90537\Desktop\DÖNEM PROJESİ\DÖNEM PROJESİ\obj\Debug\DÖNEM PROJESİ.pdb
